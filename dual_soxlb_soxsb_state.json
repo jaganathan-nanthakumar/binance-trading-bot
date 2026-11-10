@@ -1,0 +1,68 @@
+{
+  "1": {
+    "instance_id": 1,
+    "legs": {
+      "SOXLBUSDT": {
+        "symbol": "SOXLBUSDT",
+        "base_asset": "SOXLB",
+        "cycle_id": 8,
+        "qty": 0.132,
+        "entry_cost": 7.48308,
+        "entry_price": 56.69,
+        "buy_fee_usdt": 0.0055980897,
+        "buy_fee_bnb": 8.11e-06,
+        "started_at": "2026-11-10T08:57:09.816005+00:00",
+        "started_at_ts": 1794301846.1732996
+      },
+      "SOXSBUSDT": {
+        "symbol": "SOXSBUSDT",
+        "base_asset": "SOXSB",
+        "cycle_id": 12,
+        "qty": 0.13,
+        "entry_cost": 7.3697,
+        "entry_price": 56.69,
+        "buy_fee_usdt": 0.00550176,
+        "buy_fee_bnb": 8e-06,
+        "started_at": "2026-11-10T09:10:43.443927+00:00",
+        "started_at_ts": 1794301845.9404778
+      }
+    },
+    "total_harvests": 38,
+    "total_profit_usdt": 0.3500979081000072,
+    "last_harvest_at": "10 Nov 2026, 02:40:42 PM IST",
+    "last_winning_symbol": "SOXSBUSDT"
+  },
+  "2": {
+    "instance_id": 2,
+    "legs": {
+      "SOXLBUSDT": {
+        "symbol": "SOXLBUSDT",
+        "base_asset": "SOXLB",
+        "cycle_id": 39,
+        "qty": 0.216,
+        "entry_cost": 12.47184,
+        "entry_price": 57.74,
+        "buy_fee_usdt": 0.0093403411,
+        "buy_fee_bnb": 1.349e-05,
+        "started_at": "2026-11-10T00:09:19.485564+00:00",
+        "started_at_ts": 1794284174.8124096
+      },
+      "SOXSBUSDT": {
+        "symbol": "SOXSBUSDT",
+        "base_asset": "SOXSB",
+        "cycle_id": 52,
+        "qty": 0.21,
+        "entry_cost": 12.243,
+        "entry_price": 58.300000000000004,
+        "buy_fee_usdt": 0.0091365378,
+        "buy_fee_bnb": 1.326e-05,
+        "started_at": "2026-11-10T04:16:11.901126+00:00",
+        "started_at_ts": 1794284174.5783813
+      }
+    },
+    "total_harvests": 28,
+    "total_profit_usdt": -0.23610217419999732,
+    "last_harvest_at": "10 Nov 2026, 09:46:10 AM IST",
+    "last_winning_symbol": "SOXSBUSDT"
+  }
+}
